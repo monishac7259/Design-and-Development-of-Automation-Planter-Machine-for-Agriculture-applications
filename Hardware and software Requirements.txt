@@ -1,0 +1,16 @@
+HARDWARE AND SOFTWARE REQUIREMENTS 
+Hardware Components :
+• Microcontroller (Arduino Uno) 
+• DC Motors 
+• Stepper Motors 
+• Seed Hopper with Metering Mechanism 
+• Furrow Opener (Ploughing Blade) 
+• Wheels or Tracks 
+• Power supply 
+• Motor Driver Module 
+• GPS Module, Soil Moisture Sensor (optional) 
+• Bluetooth / Wi-Fi Module (HC-05/ ESP8266) 
+• Wiring, Connectors, Breadboard 
+Software Components :
+• Embedded C  
+• Arduino IDE 
